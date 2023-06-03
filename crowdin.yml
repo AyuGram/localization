@@ -1,0 +1,6 @@
+targets:
+  - name: Desktop
+    sources:
+      - '*'
+    file: /desktop/%two_letters_code%.json
+    format: crowdin-json
