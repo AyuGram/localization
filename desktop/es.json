@@ -27,5 +27,6 @@
     "EditsHistoryTitle": "Historial de ediciones",
     "EditsHistoryMenuText": "Historia",
     "ReadUntilMenuText": "Leer antes",
-    "LikelyOfflineStatus": "offline ?"
+    "LikelyOfflineStatus": "offline ?",
+    "ayu_SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs"
 }
