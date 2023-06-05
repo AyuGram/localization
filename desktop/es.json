@@ -27,6 +27,7 @@
     "EditsHistoryTitle": "Historial de ediciones",
     "EditsHistoryMenuText": "Historia",
     "ReadUntilMenuText": "Leer antes",
+    "ForwardsRestrictedInfoDeleted": "Forwarding of deleted message is not supported.",
     "LikelyOfflineStatus": "offline ?",
     "GhostModeShortcut": "Enter with Ghost",
     "SettingsWatermark": "AyuGram desarrollado y mantenido por Radolyn Labs",
