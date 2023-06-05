@@ -29,5 +29,10 @@
     "ReadUntilMenuText": "Leer antes",
     "LikelyOfflineStatus": "offline ?",
     "GhostModeShortcut": "Enter with Ghost",
-    "SettingsWatermark": "AyuGram desarrollado y mantenido por Radolyn Labs"
+    "SettingsWatermark": "AyuGram desarrollado y mantenido por Radolyn Labs",
+    "SettingsShowID": "Show peer ID",
+    "SettingsShowID_Hide": "Hide",
+    "ContextCopyID": "Copy ID",
+    "IDCopiedToast": "ID copied to clipboard.",
+    "DrawerGhostModeToggle": "Ghost Mode"
 }
