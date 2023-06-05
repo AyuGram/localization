@@ -27,6 +27,7 @@
     "EditsHistoryTitle": "История редактирования",
     "EditsHistoryMenuText": "История",
     "ReadUntilMenuText": "Прочитать до",
+    "ForwardsRestrictedInfoDeleted": "Forwarding of deleted message is not supported.",
     "LikelyOfflineStatus": "офлайн ?",
     "GhostModeShortcut": "Enter with Ghost",
     "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs",
