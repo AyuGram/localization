@@ -17,6 +17,7 @@
     "EnableAds": "Включить рекламу",
     "CustomizationHeader": "Кастомизация",
     "DeletedMarkText": "Метка удалённого сообщения",
+    "EditedMarkText": "Edited mark",
     "ShowGhostToggleInDrawer": "Показывать переключатель режима призрака",
     "CleanDatabase": "Очистить базу данных",
     "CleanDatabaseNotification": "База сообщений AyuGram очищена",
