@@ -32,9 +32,9 @@
     "LikelyOfflineStatus": "офлайн ?",
     "GhostModeShortcut": "Войти с Призраком",
     "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs",
-    "SettingsShowID": "Show peer ID",
-    "SettingsShowID_Hide": "Hide",
-    "ContextCopyID": "Copy ID",
-    "IDCopiedToast": "ID copied to clipboard.",
-    "DrawerGhostModeToggle": "Ghost Mode"
+    "SettingsShowID": "Показывать ID диалога",
+    "SettingsShowID_Hide": "Скрыть",
+    "ContextCopyID": "Скопировать ID",
+    "IDCopiedToast": "ID скопирован в буфер обмена.",
+    "DrawerGhostModeToggle": "Режим Призрака"
 }
