@@ -20,7 +20,7 @@
     "EditedMarkText": "Метка изменённого сообщения",
     "ShowGhostToggleInDrawer": "Показывать переключатель режима призрака",
     "CleanDatabase": "Очистить базу данных",
-    "WALMode": "Enable WAL mode",
+    "WALMode": "Включить WAL режим",
     "CleanDatabaseNotification": "База сообщений AyuGram очищена",
     "EnableGhostMode": "Включить Призрака",
     "DisableGhostMode": "Выключить Призрака",
