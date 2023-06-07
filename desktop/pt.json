@@ -20,6 +20,7 @@
     "EditedMarkText": "Edited mark",
     "ShowGhostToggleInDrawer": "Mostrar switch do modo Ghost",
     "CleanDatabase": "Limpar banco de dados",
+    "WALMode": "Enable WAL mode",
     "CleanDatabaseNotification": "Banco de dados do AyuGram limpo",
     "EnableGhostMode": "Habilitar Ghost",
     "DisableGhostMode": "Desabilitar Ghost",
