@@ -20,6 +20,7 @@
     "EditedMarkText": "Edited mark",
     "ShowGhostToggleInDrawer": "Mostrar interruptor de modo fantasma",
     "CleanDatabase": "Limpiar base de datos",
+    "WALMode": "Enable WAL mode",
     "CleanDatabaseNotification": "La base de datos Augram ha sido limpiada",
     "EnableGhostMode": "Activar fantasma",
     "DisableGhostMode": "Deshabilitar fantasma",
