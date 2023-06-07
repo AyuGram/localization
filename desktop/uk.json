@@ -20,7 +20,7 @@
     "EditedMarkText": "Позначка «ред.»",
     "ShowGhostToggleInDrawer": "Показати перемикач режиму примари",
     "CleanDatabase": "Очистити базу даних",
-    "WALMode": "Enable WAL mode",
+    "WALMode": "Увімкнути режим WAL",
     "CleanDatabaseNotification": "Базу даних Augram очищено",
     "EnableGhostMode": "Увімкнути режим привида",
     "DisableGhostMode": "Вимкнути режим привида",
