@@ -32,9 +32,11 @@
     "ForwardsRestrictedInfoDeleted": "Перасылка выдаленых паведамленняў не падтрымліваецца.",
     "LikelyOfflineStatus": "афлайн ?",
     "GhostModeShortcut": "Увайсці з рэжымам Прывіду",
-    "SettingsWatermark": "AyuGram распрацоўваецца і падтрымліваецца Radolyn Labs",
+    "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
+    "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
     "SettingsShowID": "Паказваць ID дыялогу",
     "SettingsShowID_Hide": "Схаваць",
+    "SettingsShowMessageSeconds": "Show message seconds",
     "ContextCopyID": "Скапіраваць ID",
     "IDCopiedToast": "ID скапіраваны ў буфер абмену.",
     "DrawerGhostModeToggle": "Рэжым Прывіду"
