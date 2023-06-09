@@ -32,9 +32,11 @@
     "ForwardsRestrictedInfoDeleted": "Пересылка удаленного сообщения не поддерживается.",
     "LikelyOfflineStatus": "офлайн ?",
     "GhostModeShortcut": "Войти с Призраком",
-    "SettingsWatermark": "AyuGram разрабатывается и поддерживается Radolyn Labs",
+    "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
+    "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
     "SettingsShowID": "Показывать ID диалога",
     "SettingsShowID_Hide": "Скрыть",
+    "SettingsShowMessageSeconds": "Show message seconds",
     "ContextCopyID": "Скопировать ID",
     "IDCopiedToast": "ID скопирован в буфер обмена.",
     "DrawerGhostModeToggle": "Режим Призрака"
