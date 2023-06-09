@@ -32,9 +32,11 @@
     "ForwardsRestrictedInfoDeleted": "Пересилання видалених повідомлень не підтримується.",
     "LikelyOfflineStatus": "оффлайн ?",
     "GhostModeShortcut": "Увійти з режимом привида",
-    "SettingsWatermark": "AyuGram розроблений і підтримується Radolyn Labs",
+    "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
+    "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
     "SettingsShowID": "Показати ID користувача",
     "SettingsShowID_Hide": "Сховати",
+    "SettingsShowMessageSeconds": "Show message seconds",
     "ContextCopyID": "Скопіювати ID",
     "IDCopiedToast": "ID скопійовано до буфера обміну.",
     "DrawerGhostModeToggle": "Режим привида"
