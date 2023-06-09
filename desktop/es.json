@@ -32,9 +32,11 @@
     "ForwardsRestrictedInfoDeleted": "El reenvío de un mensaje borrado no está soportado.",
     "LikelyOfflineStatus": "offline ?",
     "GhostModeShortcut": "Entrar con modo fantasma",
-    "SettingsWatermark": "AyuGram desarrollado y mantenido por Radolyn Labs",
+    "SettingsWatermark": "AyuGram developed and maintained by Radolyn Labs.",
+    "SettingsCustomizationHint": "After making changes to the \"Customization\" section, you must restart the application.",
     "SettingsShowID": "Mostrar ID de usuario",
     "SettingsShowID_Hide": "Esconder",
+    "SettingsShowMessageSeconds": "Show message seconds",
     "ContextCopyID": "Copiar ID",
     "IDCopiedToast": "ID copiado al portapapeles.",
     "DrawerGhostModeToggle": "Modo fantasma"
